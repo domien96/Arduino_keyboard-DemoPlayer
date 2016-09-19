@@ -3,6 +3,7 @@
    7 buttons, 1 buzzer.
    ~~~~~~~~~~~~~~~~~~~~
    Author: Domien VS
+   Github profile: https://github.com/domien96
    Date: 13/09/2016
 */
 
